@@ -46,7 +46,7 @@ A cross-platform desktop application built with Electron that allows users to cr
 
 ```bash
 # 克隆仓库
-git clone <repository-url>
+git clone https://github.com/buld-your-own-x-with-ai/Electron-QR-Code-Generator
 
 # 安装依赖
 yarn install
